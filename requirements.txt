@@ -1,0 +1,18 @@
+# Análisis y manipulación de datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=1.7.0
+
+# Detección de rupturas estructurales (algoritmo PELT)
+ruptures>=1.1.9
+
+# Notebook (solo necesario si se corre en local, no en Colab)
+jupyter>=1.0.0
+notebook>=7.0.0
